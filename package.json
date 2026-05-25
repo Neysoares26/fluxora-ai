@@ -16,7 +16,7 @@
     "pdf-parse": "latest"
   },
   "devDependencies": {
-    "typescript": "5.5.0",
+    "typescript": "^5.4.5",
     "@types/node": "latest",
     "@types/react": "latest"
   }
